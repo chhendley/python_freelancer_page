@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2023-06-17
 img: cabin.png
 alt: image-alt
 project-date: June 2023
 client: -
-category: Production dashboard
-description: This project uses Plotly DASH to create an interactive dashboard to view sugar consumption by region according to USDA data.
+category: Time-series predictor
+description: This project uses ARIMA and Facebook Prophet to predict the number of new cancer diagnoses in the US over 4 years. Training data was pulled from the CDC.
 ---
