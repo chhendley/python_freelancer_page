@@ -27,15 +27,15 @@ meta_author: Chris Hendley
 color:
   primary: 3a61d6 #80B3FF
   primary-rgb: "58,97,214" #"24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: AAAAAA #FD6E8A
+  secondary-dark: AAAAAA #A2122F
 
 # Footer settings
 footer:
   copyright: Chris Hendley
   location: Geogria, USA
   social: Around the Web
-  credits: https://jeromelachaud.com/freelancer-theme/ for webpage theme
+  #credits: https://jeromelachaud.com/freelancer-theme/ for webpage theme
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   #- line: Beverly Hills, CA 90210
 
 # Credits content
-credits: https://jeromelachaud.com/freelancer-theme/ for webpage theme
+#credits: https://jeromelachaud.com/freelancer-theme/ for webpage theme
 
 # Build settings
 markdown: kramdown
