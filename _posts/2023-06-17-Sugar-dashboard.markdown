@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-06-17
-img: cabin.png
+img: sugar-DASH.png
 alt: image-alt
 project-date: June 2023
 client: Self
