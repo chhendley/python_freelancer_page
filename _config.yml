@@ -43,10 +43,10 @@ social:
     url: https://twitter.com/ChrisHendley10
   - title: LinkedIn
     url: https://www.linkedin.com/in/christopher-hendley-54567799/
-  #- title: stack-overflow
-   # url: http://stackoverflow.com/questions/tagged/jekyll
-  #- title: bitbucket
-   # url: http://bitbucket.org/jekyll
+  - title: stack-overflow
+    url: http://stackoverflow.com/
+  - title: bitbucket
+    url: https://www.linkedin.com/in/christopher-hendley-54567799/
   - title: GitHub
     url: https://github.com/chhendley
 
