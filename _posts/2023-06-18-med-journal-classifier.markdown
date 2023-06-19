@@ -2,10 +2,10 @@
 layout: default
 modal-id: 4
 date: 2023-06-17
-img: cabin.png
+img: med-journal.jpg
 alt: image-alt
 project-date: June 2023
-client: -
+client: Self
 category: natural language processing
 description: This project uses natural language processing techniques to classify journal abstract into 5 different categories with approximately 60% accuracy. It includes a link to the original Kaggle dataset used in this project.
 ---
