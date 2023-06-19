@@ -45,8 +45,8 @@ social:
     url: https://www.linkedin.com/in/christopher-hendley-54567799/
   - title: stack-overflow
     url: http://stackoverflow.com/
-  - title: bitbucket
-    url: https://www.linkedin.com/in/christopher-hendley-54567799/
+  - title: Facebook
+    url: https://www.facebook.com/chris.hendley.14/
   - title: GitHub
     url: https://github.com/chhendley
 
@@ -55,8 +55,8 @@ address:
   - line: Roswell, GA 30075
   #- line: Beverly Hills, CA 90210
 
-# Credits content
-#credits: https://jeromelachaud.com/freelancer-theme/ for webpage theme
+#Credits content
+credits: https://jeromelachaud.com/freelancer-theme/ for webpage theme
 
 # Build settings
 markdown: kramdown
