@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2023-06-17
-img: anaplan-model-builder-level-2.pdf
+img: anaplan.png
 alt: image-alt
 project-date: June 2023
 client: Self
