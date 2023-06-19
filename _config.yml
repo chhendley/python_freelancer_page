@@ -8,7 +8,7 @@ skills: "Data analysis - Machine Learning - Healthcare Provider - Center Manager
 meta_author: Chris Hendley
 
 # Google webmaster tools
-#google_verify:
+google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 #bing_verify:
@@ -43,7 +43,7 @@ social:
     url: https://twitter.com/ChrisHendley10
   - title: LinkedIn
     url: https://www.linkedin.com/in/christopher-hendley-54567799/
-  - title: stack-overflow
+  - title: Stack-overflow
     url: http://stackoverflow.com/
   - title: Facebook
     url: https://www.facebook.com/chris.hendley.14/
