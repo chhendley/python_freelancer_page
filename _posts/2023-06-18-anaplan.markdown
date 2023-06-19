@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2023-06-17
+img: anaplan-model-builder-level-2.pdf
+alt: image-alt
+project-date: June 2023
+client: Self
+category: Anaplan
+description: I have complete the Anaplan Model Builder Level 2 certification. Anaplan allows users to integrate and analyze data all within a unified platform, creating a single-source- of-truth from planning to decision-making
+---
