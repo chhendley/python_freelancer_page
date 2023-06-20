@@ -32,30 +32,30 @@ color:
 # Footer settings
 footer:
   copyright: Chris Hendley
-  location: Geogria, USA
+  location: Roswell, GA
   social: Around the Web
   #credits: https://jeromelachaud.com/freelancer-theme/ for webpage theme
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Twitter
+  - title: twitter
     url: https://twitter.com/ChrisHendley10
-  - title: LinkedIn
+  - title: linkedln
     url: https://www.linkedin.com/in/christopher-hendley-54567799/
-  - title: Stack-overflow
+  - title: stack-overflow
     url: http://stackoverflow.com/
-  - title: Facebook
+  - title: facebook
     url: https://www.facebook.com/chris.hendley.14/
-  - title: GitHub
+  - title: github
     url: https://github.com/chhendley
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Roswell, GA 30075
+  - line: chhendley@gmail.com
   #- line: Beverly Hills, CA 90210
 
 #Credits content
-credits: https://jeromelachaud.com/freelancer-theme/ for webpage theme
+#credits: 
 
 # Build settings
 markdown: kramdown
