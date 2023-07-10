@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-06-17
-img: sugar-DASH.png
+img: iStock-1268548621.jpg
 alt: image-alt
 project-date: June 2023
 category: Production dashboard
