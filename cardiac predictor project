@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 7
+date: 2023-07-25
+img: tic-tac-toe.png
+alt: image-alt
+project-date: July 2023
+category: AI technique comparisons
+description: This project uses various machine learning and an aritificial neural network to compare accuracy among the different techniques. Link: https://github.com/chhendley/chhendley_python_projects/blob/main/cancer_prediction.ipynb 
+---
