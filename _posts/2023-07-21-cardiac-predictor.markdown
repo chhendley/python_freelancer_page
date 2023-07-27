@@ -6,5 +6,5 @@ img: cardiac-predictor.jpg
 alt: image-alt
 project-date: July 2023
 category: AI
-description: This project uses different machine learning and artificial neural network to test which technique will most accurately predict a heart attack. link: [heart_attach_predictor.ipynb](https://github.com/chhendley/chhendley_python_projects/blob/main/heart_attach_predictor.ipynb)https://github.com/chhendley/chhendley_python_projects/blob/main/heart_attach_predictor.ipynb
+description: This project uses different machine learning and artificial neural network to test which technique will most accurately predict a heart attack. link: [heart_attach_predictor.ipynb](https://github.com/chhendley/chhendley_python_projects/blob/main/heart_attach_predictor.ipynb)
 ---
