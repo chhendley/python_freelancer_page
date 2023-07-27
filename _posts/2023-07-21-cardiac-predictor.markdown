@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2023-07-21
-img: cardiac predictor.jpg
+img: cardiac-predictor.jpg
 alt: image-alt
 project-date: July 2023
 category: AI
