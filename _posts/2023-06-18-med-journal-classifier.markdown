@@ -6,5 +6,5 @@ img: med-journal.jpg
 alt: image-alt
 project-date: June 2023
 category: natural language processing
-description: This project uses natural language processing techniques to classify journal abstract into 5 different categories with approximately 60% accuracy. It includes a link to the original Kaggle dataset used in this project.   https://github.com/chhendley/python_freelancer_page/blob/master/_posts/2023-06-18-med-journal-classifier.markdown
+description: This project uses natural language processing techniques to classify journal abstract into 5 different categories with approximately 60% accuracy. The original dataset is from Kaggle.
 ---
