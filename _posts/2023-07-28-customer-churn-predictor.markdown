@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2023-07-28
-img: customer-churn.jpg
+img: customer-churn.png
 alt: image-alt
 project-date: July 2023
 category: AI ensemble
