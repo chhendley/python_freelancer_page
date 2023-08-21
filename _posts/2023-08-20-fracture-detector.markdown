@@ -2,7 +2,7 @@
 layout: default
 modal-id: 11
 date: 2023-8-20
-img: heart_graphic.jpg
+img: fracture.png
 alt: image-alt
 project-date: August 2023
 category: Deep Learning Comparison
