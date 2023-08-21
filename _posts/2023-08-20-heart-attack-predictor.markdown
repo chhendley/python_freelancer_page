@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2023-8-20
-img: nfl.jpeg
+img: heart_graphic.jpg
 alt: image-alt
 project-date: August 2023
 category: Production dashboard
